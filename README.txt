@@ -1,0 +1,2 @@
+a project mostly for fun
+a code that automatically goes to digikala.com sign up page,creates an account password and username and confirms phone number by getting an sms from that number and types in the code
